@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\bin\Debug\ServiceSender.exe.config
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\bin\Debug\ServiceSender.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\bin\Debug\ServiceSender.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Service\ServiceSender\obj\Debug\ServiceSender.csproj.CopyComplete
