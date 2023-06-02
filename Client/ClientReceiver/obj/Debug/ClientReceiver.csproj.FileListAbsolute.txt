@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\bin\Debug\ClientReceiver.exe.config
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\bin\Debug\ClientReceiver.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\bin\Debug\ClientReceiver.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\ClientReceiver\obj\Debug\ClientReceiver.csproj.CopyComplete

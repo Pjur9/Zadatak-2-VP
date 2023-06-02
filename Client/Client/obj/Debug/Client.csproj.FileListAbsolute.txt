@@ -1,0 +1,42 @@
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\bin\Debug\Client.exe
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\bin\Debug\Client.pdb
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\bin\Debug\Common.dll
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\bin\Debug\Common.pdb
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\obj\Debug\Client.exe
+C:\Users\Nikola\Desktop\Projekat VP-29.05\Projekat VP\Client\Client\obj\Debug\Client.pdb
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.exe
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.pdb
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Common.dll
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Common.pdb
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.exe
+C:\Users\Nikola\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Projekat VP-30.05\Projekat VP\Client\Client\obj\Debug\Client.pdb
